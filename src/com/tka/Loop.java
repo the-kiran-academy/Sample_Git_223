@@ -8,10 +8,13 @@ public class Loop {
 		}
 		
 	}
-	public static void printTableThree() {
+	public static void printTableSeven() {
 		for (int i = 1; i <= 10; i++) {
-			System.out.println("3 * " + i + " = " + (3 * i));
+			System.out.println("7 * " + i + " = " + (7 * i));
 		}
 	}
+
+	
+	
 
 }
