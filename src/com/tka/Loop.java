@@ -8,4 +8,11 @@ public class Loop {
 		}
 	}
 
+	
+	public static void printTableOfFour() {
+		System.out.println("Table of four :");
+		for (int i = 1; i <= 10; i++) {
+			System.out.println("4 * " + i + " = " + (4 * i));
+		}
+	}
 }
