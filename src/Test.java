@@ -6,6 +6,7 @@ public class Test {
 
 		System.out.println("Hello, World!");
 		Loop.printTable();
+		Loop.printTableThree();
 
 	}
 
